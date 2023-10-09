@@ -2,7 +2,7 @@
     display: none;
     padding: 5px;
     border-radius: 2px;
-    margin-right: 40px;
+    margin-right: 50px;
     border: 2px solid white;
 }
 #check{
@@ -199,8 +199,9 @@ button:hover{
 }
 .portfolio .cardcontainer-1{
     display: grid;
-    grid-template-columns:repeat(auto-fit,minmax(330px,1fr));
+    grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
     width: 100%;
+    padding: 0px 50px;
     gap: 2rem;
 }
 .cardcontainer-1 .card-1{
