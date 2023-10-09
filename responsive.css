@@ -2,6 +2,7 @@
     display: none;
     padding: 5px;
     border-radius: 2px;
+    margin-right: 40px;
     border: 2px solid white;
 }
 #check{
@@ -308,7 +309,7 @@ button:hover{
 }
 .form-control input{
     height: 50px;
-    width: 450px;
+    width: 400px;
     margin-bottom: 20px;
     padding: 0px 0px;
     font-size: 15px;
