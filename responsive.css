@@ -309,7 +309,7 @@ button:hover{
 }
 .form-control input{
     height: 50px;
-    width: 400px;
+    width: 100%;
     margin-bottom: 20px;
     padding: 0px 0px;
     font-size: 15px;
